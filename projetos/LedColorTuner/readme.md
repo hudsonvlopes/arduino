@@ -8,15 +8,18 @@ Este projeto permite calibrar LEDs RGB para obter a cor desejada com precisão. 
 
 ## Protótipo
 
-![Alt ou título da imagem](/img/proto1.jpg)
+![Alt ou título da imagem](img/proto1.jpg)
+![Alt ou título da imagem](img/proto2.jpg)
+![Alt ou título da imagem](img/proto3.jpg)
 
 ## Componentes Necessários
 
 - Arduino Uno
 - LED RGB
-- Resistores (220Ω)
+- 1 Resistor (220Ω)
 - Protoboard
 - Cabos Jumper
+- 3 potenciômetros B10K
 
 ## Instalação
 
@@ -31,7 +34,7 @@ Este projeto permite calibrar LEDs RGB para obter a cor desejada com precisão. 
 
 1. Conecte os componentes conforme o diagrama.
 2. Abra o monitor serial no Arduino IDE.
-3. Siga as instruções no monitor serial para calibrar o LED RGB.
+3. Calibre através do potenciômetro e veja a saída no monitor serial.
 
 ## Contribuição
 
@@ -52,4 +55,4 @@ Este projeto permite calibrar LEDs RGB para obter a cor desejada com precisão. 
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+Este projeto não possui restrição de licenciamento.
