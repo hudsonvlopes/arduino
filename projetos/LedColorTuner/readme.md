@@ -8,7 +8,7 @@ Este projeto permite calibrar LEDs RGB para obter a cor desejada com precisão. 
 
 ## Protótipo
 
-!Protótipo do Projeto
+![Alt ou título da imagem](/img/proto1.jpg)
 
 ## Componentes Necessários
 
